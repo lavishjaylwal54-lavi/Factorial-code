@@ -1,6 +1,6 @@
-﻿# python-basics-25BCON0782
+﻿# python-basics-25BCON1912
 
-**Student:** Chirag Sharma (Roll No: 25BCON0782)
+**Student:** lavish kumar (Roll No: 25BCON1912)
 
 Basic python program
 ## Factorial Calculator
